@@ -1,5 +1,5 @@
-ARM_DOWNLOAD="https://download.01.org/crosswalk/releases/crosswalk/android/canary/8.37.189.12/arm/crosswalk-webview-8.37.189.12-arm.zip";
-X86_DOWNLOAD="https://download.01.org/crosswalk/releases/crosswalk/android/canary/8.37.189.12/x86/crosswalk-webview-8.37.189.12-x86.zip";
+ARM_DOWNLOAD="https://download.01.org/crosswalk/releases/crosswalk/android/stable/8.37.189.12/arm/crosswalk-webview-8.37.189.12-arm.zip";
+X86_DOWNLOAD="https://download.01.org/crosswalk/releases/crosswalk/android/stable/8.37.189.12/x86/crosswalk-webview-8.37.189.12-x86.zip";
 
 download() {
     TMPDIR=$(mktemp -d xwdl.XXXXXX)
